@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 import asyncio
 import sys
-from itchio import fetch_itchio
-from redit import fetch_reddit
-from hackernews import fetch_hackernews
-from indiedb import fetch_indiedb
+from sources.itchio import fetch_itchio
+from sources.reddit import fetch_reddit
+from sources.hackernews import fetch_hackernews
+from sources.indiedb import fetch_indiedb
 from scorer import score_items
 from digest import generate_digest
 from telegrambot import send_message
