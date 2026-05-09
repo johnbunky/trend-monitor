@@ -1,29 +1,30 @@
 """
-IndieDB source — RSS feed, keyword filtered.
-Pure indie signal, no Steam noise.
+GameFromScratch + Game Developer RSS — replaces IndieDB (403).
+Both are bot-friendly and indie game dev focused.
 """
 
 import httpx
 import xml.etree.ElementTree as ET
+import re
 import time
 from email.utils import parsedate_to_datetime
 
 FEEDS = [
-    "https://www.indiedb.com/games/feed/",
-    "https://www.indiedb.com/news/feed/",
+    "https://gamefromscratch.com/feed/",
+    "https://www.gamedeveloper.com/rss.xml",
 ]
-LOOKBACK_SECONDS = 86400 * 2  # 48h — RSS updates are slower
+LOOKBACK_SECONDS = 86400 * 2
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; TrendMonitorBot/1.0)",
+}
 
 
 async def fetch_indiedb(keywords: list[str]) -> list[dict]:
     cutoff = time.time() - LOOKBACK_SECONDS
     items = []
 
-    async with httpx.AsyncClient(
-        timeout=20,
-        headers={"User-Agent": "TrendMonitorBot/1.0"},
-        follow_redirects=True,
-    ) as client:
+    async with httpx.AsyncClient(timeout=20, headers=HEADERS, follow_redirects=True) as client:
         for feed_url in FEEDS:
             try:
                 r = await client.get(feed_url)
@@ -32,19 +33,17 @@ async def fetch_indiedb(keywords: list[str]) -> list[dict]:
                 channel = root.find("channel")
                 if channel is None:
                     continue
-
                 for item in channel.findall("item"):
-                    entry = _parse_item(item)
+                    entry = _parse_item(item, feed_url)
                     if not entry:
                         continue
-                    if entry["created_ts"] < cutoff:
+                    if entry["created_ts"] > 0 and entry["created_ts"] < cutoff:
                         continue
                     if _matches(entry, keywords):
                         items.append(entry)
             except Exception as e:
-                print(f"  IndieDB feed error ({feed_url}): {e}")
+                print(f"  RSS feed error ({feed_url}): {e}")
 
-    # Deduplicate
     seen = set()
     unique = []
     for item in items:
@@ -55,26 +54,25 @@ async def fetch_indiedb(keywords: list[str]) -> list[dict]:
     return unique
 
 
-def _parse_item(item: ET.Element) -> dict | None:
+def _parse_item(item: ET.Element, feed_url: str) -> dict | None:
     try:
         link = item.findtext("link", "").strip()
         title = item.findtext("title", "").strip()
-        desc = item.findtext("description", "").strip()
+        desc = re.sub(r'<[^>]+>', '', item.findtext("description", ""))[:300]
         pub_date = item.findtext("pubDate", "")
-
         ts = 0
         if pub_date:
             try:
                 ts = parsedate_to_datetime(pub_date).timestamp()
             except Exception:
                 pass
-
+        source_name = "GameFromScratch" if "gamefromscratch" in feed_url else "Game Developer"
         return {
-            "id": f"indiedb_{hash(link)}",
-            "source": "IndieDB",
+            "id": f"gfs_{hash(link)}",
+            "source": source_name,
             "title": title,
             "url": link,
-            "description": desc[:300],
+            "description": desc,
             "score_raw": 0.0,
             "interactions": 0,
             "created_ts": int(ts),
