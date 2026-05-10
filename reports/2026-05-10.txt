@@ -1,0 +1,22 @@
+🎮 *Trend Monitor — 2026-05-10*
+
+**Daily Indie Game Trend Digest 📈**
+
+Today's top signals are all about game feel, atmosphere, and mechanics. Let's dive in!
+
+**Game Feel & Atmosphere**
+The standout signal today is **VBM** - a VTT (Virtual Tabletop) that aims to recreate the experience of playing tabletop games on a Saturday night. As an indie dev, this is a great example of how to create a game that's not just about rules, but about the social atmosphere and shared experience. Pay attention to how VBM creates a sense of camaraderie and excitement through its design.
+
+**Co-op Mechanics & Kinetic Satisfaction**
+**VBM** (see above) also features co-op mechanics that encourage collaboration and teamwork. This is a great reminder of the importance of co-op play in creating a sense of kinetic satisfaction and replayability.
+
+**Minimalist Physics & Juice**
+While not directly related to games, **Shoehorn** (item 6) showcases a minimalist approach to tool design that can be applied to game development. By stripping away unnecessary features and focusing on simplicity, developers can create a more intuitive and enjoyable user experience - a key principle of game feel.
+
+**Emergent Storytelling**
+**Wuphf** (item 5) demonstrates the potential for emergent storytelling through AI-driven agent interactions. This is an exciting area of research that can inform game design and create unique, player-driven narratives.
+
+**Game Jam**
+Unfortunately, there aren't any direct game jam signals today, but **VBM** and **Wuphf** were both created by independent developers who likely participated in game jams or similar events. Takeaway: game jams can be a great way to experiment with new ideas and mechanics that can later be refined and polished into full-fledged games.
+
+**Takeaway**: Today's signals highlight the importance of creating a strong game feel, whether through co-op mechanics, minimalist design, or emergent storytelling. By focusing on these aspects, indie devs can create experiences that engage players on a deeper level and encourage replayability and social sharing.
