@@ -1,22 +1,22 @@
 🎮 *Trend Monitor — 2026-05-11*
 
-🎮 Indie Game Trend Digest - May 11, 2024
+📊 Daily Digest: Indie Game Trends
 
-The most interesting signal today comes from the Itch.io platform, where we're seeing a resurgence of visually-driven, offbeat visual novels that blend humor, satire, and absurdity. These games often prioritize player choice and branching narratives, which could be an exciting space for indie devs looking to experiment with interactive storytelling.
+**Top Signal:** Show HN: An addictive phone game about phone addiction (https://downtime.partridge.works) - This game highlights the dangers of phone addiction, but unfortunately, the dev ended up creating a really addictive game. This is a great example of how game mechanics can create a "kinetic satisfaction" loop, where players become hooked on the game despite its negative theme.
 
-Atmospheric Indie:
-- My New Tenant (Visual Novel) on Itch.io: A game about finding a hot monster in your barn that showcases player choice and branching narratives.
-- This Magical Girl is a B⭐tch (Visual Novel) on Itch.io: A visually-driven, offbeat game that blends humor, satire, and absurdity, perfect for devs looking to experiment with interactive storytelling.
+**Minimalist Physics & Kinetic Satisfaction:**
 
-Game Feel & Juice:
-- Hustler Bingo (Tiny Bingo Game) on Hacker News: A fun, bite-sized game that captures the essence of startup Twitter clichés, serving as a great example of minimalist design and kinetic satisfaction.
-- Admin (Puzzle) on Itch.io: A detective-themed puzzle game that uses password-cracking as a mechanic, showing how simple, intuitive interactions can create engaging gameplay.
+* Show HN: An addictive phone game about phone addiction (https://downtime.partridge.works) - As mentioned above, this game showcases a well-crafted mechanic that creates a "kinetic satisfaction" loop.
+* Show HN: Hustler Bingo – a tiny bingo game about startup Twitter clichés (https://hustlerbingo.app) - This game is a great example of a minimalist physics-based game with a strong focus on kinetic satisfaction.
 
-Emergent Storytelling:
-- Bottleneck (The Strait of Hormuz Crisis Game) on Hacker News: A game that simmers beneath the surface, allowing players to engage with complex geopolitical issues, highlighting the potential for emergent storytelling in more nuanced, realistic settings.
-- Aztec Ride (Simulation) on Itch.io: A game where players manage an Aztec community, making decisions that impact the community's growth and well-being, showcasing the potential for emergent storytelling in simulation games.
+**Atmospheric Indie & Game Feel:**
 
-Game Jam:
-- 1e4.ai (Chess Web App) on Hacker News: A game built during a game jam, where the developer trained a chess engine to mimic human players, demonstrating the potential for innovative game ideas and mechanics to emerge from game jams.
+* Show HN: Web-REPL "skred" : my OSS sound engine w/retro C64 appearance (https://octetta.github.io/pulp/doc/) - This open-source sound engine has a retro C64 appearance, which could be used to create an atmospheric indie game with a unique sound design.
+* Bottleneck – The Strait of Hormuz Crisis Game (https://bottleneck.jakubgornicki.com/en) - This game has a strong focus on atmosphere and game feel, with a unique setting and mechanics that create a sense of tension.
 
-Takeaway: Today's trend signals emphasize the importance of player choice, branching narratives, and kinetic satisfaction in indie game development, while also highlighting the potential for emergent storytelling in more nuanced, realistic settings.
+**Co-op Mechanics & Game Jam:**
+
+* Show HN: Our keyboards are tracking us (https://news.ycombinator.com/item?id=48092999) - This article highlights the importance of co-op mechanics in games, where players work together to achieve a common goal.
+* Show HN: AI agents who prevent context drift through gossip (https://wuphf.team) - This project uses AI to create co-op mechanics in game development, which could be used in game jams to create innovative and engaging game experiences.
+
+**Takeaway:** Today's top trends highlight the importance of creating engaging game mechanics that create a "kinetic satisfaction" loop, as well as the use of atmospheric indie elements to create a unique game feel. Additionally, co-op mechanics and game jams are becoming increasingly popular, with a focus on creating innovative and engaging game experiences.
