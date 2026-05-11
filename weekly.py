@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
 Weekly summary — reads last 7 daily reports from reports/,
-generates a week-in-review digest via Groq, sends to Telegram.
+generates a week-in-review digest via Groq, sends to Telegram,
+then cleans up the daily report files.
 """
 
 import os
 import glob
 import asyncio
-from datetime import datetime, timezone
 from digest import GROQ_URL, MODEL
 from telegram_bot import send_message
 import httpx
@@ -39,17 +39,30 @@ async def main():
 
     print("📤 Sending weekly summary to Telegram...")
     await send_message(summary)
+
+    cleanup_reports(reports)
     print("✅ Done!")
 
 
 def load_reports() -> dict[str, str]:
-    files = sorted(glob.glob("reports/*.txt"))[-7:]  # last 7
+    files = sorted(glob.glob("reports/*.txt"))[-7:]
     reports = {}
     for f in files:
         date = os.path.basename(f).replace(".txt", "")
         with open(f) as fh:
             reports[date] = fh.read()
     return reports
+
+
+def cleanup_reports(reports: dict[str, str]):
+    print("🗑️  Cleaning up daily reports...")
+    for date in reports.keys():
+        path = f"reports/{date}.txt"
+        try:
+            os.remove(path)
+            print(f"  deleted {path}")
+        except Exception as e:
+            print(f"  ⚠️  Could not delete {path}: {e}")
 
 
 def generate_weekly(reports: dict[str, str]) -> str:
@@ -60,7 +73,6 @@ def generate_weekly(reports: dict[str, str]) -> str:
     block = "\n\n".join(
         f"=== {date} ===\n{text}" for date, text in reports.items()
     )
-
     user_msg = f"Here are the last {len(reports)} daily indie game trend digests:\n\n{block}\n\nWrite the weekly review."
 
     try:
