@@ -1,18 +1,14 @@
-name: Daily Trend Monitor
+name: Weekly Trend Summary
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 9 * * 0"   # 09:00 UTC every Sunday
   workflow_dispatch:
-  push:
-    branches: [main]
 
 jobs:
-  run-monitor:
+  weekly-summary:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repo
@@ -27,19 +23,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run trend monitor
+      - name: Run weekly summary
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python monitor.py
-
-      - name: Commit daily report
-        run: |
-          git config user.name "trend-monitor-bot"
-          git config user.email "bot@trend-monitor"
-          git add reports/
-          git diff --staged --quiet || git commit -m "report: $(date -u +%Y-%m-%d)"
-          git push
+        run: python weekly.py
