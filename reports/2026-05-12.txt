@@ -1,20 +1,29 @@
 🎮 *Trend Monitor — 2026-05-12*
 
-Today's top signal: NBC orders a 'Wordle' game show hosted by Savannah Guthrie 📺. This mainstream recognition of a popular indie game mechanic (Wordle's daily puzzle) signals a growing appetite for puzzle and word game experiences in the wider audience.
+**Today's Top Indie Game Trend Signals**
 
-**Game Feel & Kinetic Satisfaction**
-- Inspection Credit's inspection-response window redesign showcases a clear understanding of user flow and satisfaction, highlighting the importance of crafting intuitive game-like experiences.
+**Kinetic Satisfaction on the Rise**
+Your local curling club is getting a unique video game twist, with a hobby project aiming to create a curling game for their community. This signals a potential demand for fun, accessible games with a strong focus on kinetic satisfaction.
 
-**Game Jam & Co-op Mechanics**
-- Personal Trainer, a workout tracking app, demonstrates that game jam-style ideas can be applied to real-world problems, emphasizing the value of iterative design and player feedback in co-op mechanics.
+**Game Feel Matters**
+A game dev on Reddit shares their surprise at how many skills go into game development beyond coding. This highlights the importance of game feel, a crucial aspect of a game's overall experience.
 
-**Atmospheric Indie**
-- Origami, a workspace-oriented terminal manager, uses AI and LLMs to create a unique and customizable experience, reflecting the growing trend of using AI-generated assets in atmospheric indie games.
+**Juice in the Details**
+A small feature like UI sounds and a pause before dialogue can make a big difference in a game's realism. This suggests that game devs should focus on adding these small touches to create a more immersive experience.
 
-**Emergent Storytelling**
-- Atrophy, an iOS app gauging AI over-reliance and psychosis, utilizes self-report quizzes to create an emergent narrative, showcasing the potential for player-driven storytelling in indie games.
+**New Job Openings**
+A video editor with game dev experience is looking for work in the game dev niche, indicating a growing need for professionals who can handle long-form and short-form content creation.
 
-**New Releases & Juice**
-- NodeDB's high-performance multi-model database and Inspection Credit's inspection-response window redesign demonstrate the importance of innovative tools and mechanics in creating engaging and satisfying game experiences.
+**Game Dev Resources**
+A Unity2D tutorial focuses on creating a flipping animation for UI elements, showcasing the importance of adding juice to a game's UI. The dev is open to feedback and suggestions, highlighting the growing community of game devs sharing knowledge and resources.
 
-**Takeaway:** Today's signals highlight the convergence of game-like mechanics in non-gaming domains, from AI and productivity tools to mainstream media and real-world problem-solving. As indie devs, embracing game-like design principles can lead to innovative solutions and engaging user experiences across various industries.
+**Game Jam Success Stories**
+A new game jam participant has shared their experience surviving their first game jam with a game called Florella. This signals a thriving community of game devs participating in jams and creating new games.
+
+**Game Jam Resources**
+A Reddit user is working on a website called JamRadar, which aggregates game jams from around the internet. This will make it easier for game devs to find and participate in jams.
+
+**New Game Engine Features**
+Defold has added full 3D support to its game engine, expanding its capabilities and potential use cases for indie game devs.
+
+**Takeaway:** Today's trend signals highlight the importance of focus on game feel, kinetic satisfaction, and juice in game development, as well as the growing demand for professionals with experience in game dev and content creation.
