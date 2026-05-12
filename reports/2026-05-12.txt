@@ -1,0 +1,28 @@
+🎮 *Trend Monitor — 2026-05-12*
+
+**Top Trending Signals for Indie Game Devs**
+
+**Kinetic Satisfaction and Game Feel**
+
+1. A new iOS app, Atrophy, gauges AI over-reliance and psychosis among software engineers - this shows the growing concern about the impact of LLMs on human behavior, which could inspire fresh narrative and psychological themes in indie games.
+
+**Minimally Relevant to Indies, but Interesting**
+
+2. Hacker News discussions on LLMs, database software, and a personal trainer app - while these may not directly inform indie game development, they showcase the evolving tech landscape and potential areas for integration or inspiration.
+3. NodeDB, a high-performance multi-model database, may be of interest to devs working on complex game architectures or simulations.
+
+**Atmospheric Indie and Emergent Storytelling**
+
+4. Scientists gave 'aggressive' fish psychedelic drugs and observed a breakthrough - this study could lead to innovative approaches to immersive, atmospheric game worlds and the psychology of non-human characters.
+
+**New Releases and Co-op Mechanics**
+
+5. NBC orders a 'Wordle' game show hosted by Savannah Guthrie - while not directly related to indie games, it highlights the continued popularity of word games and could inspire co-op puzzle games or language-focused experiences.
+6. A home inspection negotiation tool, Inspection Credit, may seem unrelated, but its focus on clear communication and negotiation could translate to cooperative gameplay mechanics in indie games.
+
+**Game Jam and Juice**
+
+7. A game jam entry, Personal Trainer, allows users to share workout plans and compete with friends - this showcases the power of game jams in breeding innovative ideas and mechanics that can be iterated upon in full indie game projects.
+8. A workout planner app with a competitive twist, Personal Trainer, could be seen as a more interactive and engaging way to collect player data and progress, injecting 'juice' into the experience.
+
+**Takeaway:** Today's top news reveals a growing focus on psychological themes, immersive game worlds, and cooperative gameplay mechanics, all of which could inform the development of engaging and satisfying indie games.
