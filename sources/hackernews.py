@@ -1,6 +1,6 @@
 """
 Hacker News source — via Algolia API, last 24h.
-No auth required. Great for "game feel" breakthroughs.
+No auth required. Filtered to game-related content only.
 """
 
 import httpx
@@ -8,6 +8,12 @@ import time
 
 ALGOLIA_URL = "https://hn.algolia.com/api/v1/search_by_date"
 LOOKBACK_SECONDS = 86400
+
+GAME_TERMS = [
+    "game", "indie", "dev", "unity", "godot", "lua", "jam", "pixel",
+    "engine", "mechanic", "physics", "narrative", "procedural", "roguelike",
+    "platformer", "arcade", "sprite", "shader", "gamedev", "playtest",
+]
 
 
 async def fetch_hackernews(keywords: list[str]) -> list[dict]:
@@ -34,12 +40,20 @@ async def fetch_hackernews(keywords: list[str]) -> list[dict]:
                     obj_id = hit.get("objectID")
                     if obj_id in seen:
                         continue
+                    if not _is_game_related(hit):
+                        continue
                     seen.add(obj_id)
                     items.append(_normalise(hit))
+
             except Exception as e:
                 print(f"  HN/{kw} error: {e}")
 
     return items
+
+
+def _is_game_related(hit: dict) -> bool:
+    text = (hit.get("title", "") + " " + (hit.get("story_text") or "")).lower()
+    return any(term in text for term in GAME_TERMS)
 
 
 def _normalise(hit: dict) -> dict:
