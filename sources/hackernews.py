@@ -1,6 +1,6 @@
 """
 Hacker News source — via Algolia API, last 24h.
-No auth required. Filtered to game-related content only.
+Strict game dev filter to avoid off-topic matches.
 """
 
 import httpx
@@ -9,10 +9,13 @@ import time
 ALGOLIA_URL = "https://hn.algolia.com/api/v1/search_by_date"
 LOOKBACK_SECONDS = 86400
 
-GAME_TERMS = [
-    "game", "indie", "dev", "unity", "godot", "lua", "jam", "pixel",
-    "engine", "mechanic", "physics", "narrative", "procedural", "roguelike",
-    "platformer", "arcade", "sprite", "shader", "gamedev", "playtest",
+# Must match at least one of these specific gamedev terms
+GAMEDEV_TERMS = [
+    "game dev", "gamedev", "game development", "game engine", "game jam",
+    "game feel", "indie game", "unity", "godot", "unreal", "love2d", "pygame",
+    "platformer", "roguelike", "pixel art", "shader", "sprite", "tilemap",
+    "game mechanic", "game design", "game physics", "procedural generation",
+    "game jam", "ludum dare", "itch.io", "playtest", "game loop",
 ]
 
 
@@ -40,7 +43,7 @@ async def fetch_hackernews(keywords: list[str]) -> list[dict]:
                     obj_id = hit.get("objectID")
                     if obj_id in seen:
                         continue
-                    if not _is_game_related(hit):
+                    if not _is_gamedev(hit):
                         continue
                     seen.add(obj_id)
                     items.append(_normalise(hit))
@@ -51,9 +54,9 @@ async def fetch_hackernews(keywords: list[str]) -> list[dict]:
     return items
 
 
-def _is_game_related(hit: dict) -> bool:
+def _is_gamedev(hit: dict) -> bool:
     text = (hit.get("title", "") + " " + (hit.get("story_text") or "")).lower()
-    return any(term in text for term in GAME_TERMS)
+    return any(term in text for term in GAMEDEV_TERMS)
 
 
 def _normalise(hit: dict) -> dict:
