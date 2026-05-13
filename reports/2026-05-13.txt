@@ -1,0 +1,29 @@
+🎮 *Trend Monitor — 2026-05-13*
+
+🚨 Top 8 Indie Game Trend Signals 🚨
+
+**Burnout Alert** 🤕
+A game dev is sharing their journey of abandoning their dreams to pursue fulfillment and better coffee, highlighting the importance of prioritizing one's well-being in the industry. This post matters to indie devs because it encourages self-reflection and emphasizes that success comes in many forms.
+
+**Game Development Tools** 🛠️
+A new standard for embedded spritesheet PNGs has been proposed, aiming to simplify game development and reduce metadata management. This development matters to indie devs because it could streamline their workflow and improve asset management.
+
+**UI Juice** 💃
+A Unity2D tutorial is teaching devs how to create customizable flipping animations for UI elements, highlighting the importance of polish and visual flair. This post matters to indie devs because it shows how small details can make a big difference in player engagement.
+
+**Learning UI Juice** 🤓
+A dev is sharing their journey of learning to add juice to their UI, showcasing the value of experimentation and iteration in game development. This post matters to indie devs because it encourages them to experiment and find their own unique visual style.
+
+**3D Modeling Tools** 🎨
+Autodesk has released a free 3D kitbash app called Project Falcon, offering devs a new way to create 3D assets. This release matters to indie devs because it provides access to high-quality 3D modeling tools without financial constraints.
+
+**Game Engine Updates** 💻
+Defold has upgraded to a full 3D game engine, expanding its capabilities and potential for indie devs. This update matters to indie devs because it provides a powerful new tool for creating 3D games.
+
+**Industry Insights** 📊
+The Metroid Dread developer, MercurySteam, has conducted layoffs, highlighting the challenges of game development and the importance of planning. This news matters to indie devs because it serves as a reminder to prioritize their own project planning and risk management.
+
+**Business Shifts** 📈
+Sega is lowering the priority of games-as-a-service titles, potentially shifting the balance of the industry towards more focused, self-contained experiences. This development matters to indie devs because it may create new opportunities for their types of games.
+
+**Takeaway:** Today's signals highlight the importance of prioritizing well-being, experimenting with visual style, and adapting to industry shifts. As an indie dev, it's crucial to stay flexible and focus on creating high-quality experiences that resonate with players. 💡
