@@ -1,0 +1,27 @@
+🎮 *Trend Monitor — 2026-05-16*
+
+**Top Signal: $50B Company in Salesforce Hides AI Secrets** 🤖
+
+A $50 billion company, revkit.ai, is quietly leveraging AI within Salesforce, indicating a growing trend of AI adoption in business and potentially indie game development.
+
+**Game Development Trends:**
+
+* **Kinetic Satisfaction**: The Menhera Jam game jam on Reddit r/gamedev focuses on creating visual novels and psychological horror games that explore the human experience, hinting at a growing interest in games that elicit intense emotions.
+* **Minimalist Physics**: The Immense Engine, a new European game engine, emphasizes its focus on simplicity and ease of use, suggesting a shift towards more accessible game development tools.
+* **Emergent Storytelling**: The success of Subnautica 2, which has surpassed 2 million sales in 12 hours, highlights the appeal of games with emergent storytelling and player-driven narratives.
+
+**Game Engines and Tools:**
+
+* **New Game Engine**: The Immense Engine, developed by an Epic Games alum, offers a fresh perspective on game engine design, potentially disrupting the market.
+* **Level Design Tool**: Anvil, a free and open-source level design tool for Blender, provides a valuable resource for indie developers looking to create engaging game levels.
+
+**Industry Insights:**
+
+* **AI in Development**: The growing use of AI in software development and business, as seen in revkit.ai's success, may indicate a similar trend in game development, with potential applications in AI-powered game mechanics and tools.
+* **Co-op Mechanics**: The success of Marvel Rivals, a game with co-op mechanics, suggests that co-op gameplay remains a popular trend in the industry.
+
+**Game Feel and Juice:**
+
+* **Atmospheric Indie**: The Menhera Jam game jam's focus on visual novels and psychological horror games hints at a growing interest in atmospheric, indie-style games that prioritize immersive experiences.
+
+**Takeaway**: Today's top signals suggest a growing trend towards AI adoption in game development, potentially disrupting traditional game mechanics and engine design.
