@@ -1,0 +1,28 @@
+🎮 *Trend Monitor — 2026-05-18*
+
+🚨 Daily Indie Game Trend Digest (May 18th)
+
+**Kinetic Satisfaction Leads the Pack**
+
+The most interesting signal today comes from a Reddit post about a proto-type boss fight game, where a developer is seeking feedback on game feel, tension, and difficulty. This is a great example of how indie devs are actively seeking feedback and willing to iterate on their games to achieve the perfect kinetic satisfaction for players.
+
+**Game Feel and Mechanics**
+
+* A game dev on Reddit is working on a fast-paced boss fight game and needs feedback on game feel, tension, and difficulty. You play as a giant mech using two arms.
+* A Unity 2D dev is experimenting with adding "juice" to UI elements, highlighting the importance of micro-interactions in creating a satisfying game feel.
+
+**New Releases and Trending Games**
+
+* A visual novel, "My New Tenant," has been released on Itch.io, offering a unique blend of storytelling and gameplay.
+* "Admin," a puzzle game, challenges players to unlock computers at a new job, where no one remembers their passwords.
+
+**Business and Market Trends**
+
+* GameFromScratch reports on an "insane number of game dev bundles" currently available, many of which are due to the holiday season.
+* Arc Raiders has topped 16 million sales and may be heading to China, demonstrating the potential for successful indie games to expand globally.
+
+**Atmospheric Indie and Co-op Mechanics**
+
+* The Nex Playground, a controller-free console, is launching in the UK and Ireland after outselling Xbox in the US during the 2025 holiday season.
+
+**Takeaway**: Today's trends highlight the importance of game feel and kinetic satisfaction in creating engaging experiences for players. Indie devs are actively seeking feedback and experimenting with new mechanics to achieve this, while the success of games like Arc Raiders demonstrates the potential for global expansion. Keep an eye on micro-interactions and game feel in your own projects to stay competitive! 🚀
