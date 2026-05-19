@@ -1,0 +1,21 @@
+🎮 *Trend Monitor — 2026-05-19*
+
+Today's top 8 indie game trend signals are sending some fascinating signals. 
+
+First off, a developer just shared a remarkable achievement - shipping a Rust voxel engine to web, iOS, Mac/Windows, byte-identical. This showcases the power of Rust for game development and its potential for cross-platform projects. As an indie dev, you might be interested in exploring Rust for your next project.
+
+In the world of game feel, a thread on Reddit r/gamedev is exploring what makes a game an RPG, sparking a conversation about game design and genre identity. You should pay attention to how players define and interact with RPG elements in your game.
+
+In a separate thread on Reddit r/Unity2D, developers are discussing the importance of 'juice' or feedback in UI interactions, highlighting the impact on player experience. This is a great reminder to focus on creating engaging and responsive user interfaces.
+
+Educational games are also on the rise, with a developer seeking feedback on their math-based game idea. As an indie dev, you might be interested in creating educational games that combine learning with engaging gameplay.
+
+On a more somber note, the passing of veteran voice actor Tom Kane is a reminder of the importance of talent and storytelling in games. As an indie dev, you might be working with voice actors or narrators to bring your game to life.
+
+In business news, Sony is increasing the price of PlayStation Plus for new customers, which could impact the indie game market. You should stay up-to-date with changes in the gaming industry and their potential impact on your game's distribution and marketing.
+
+In terms of new releases, Arc Raiders has topped 16 million sales and is being considered for a release in China. This is a great example of a successful indie game that's making waves in the industry.
+
+Lastly, the Nex Playground is launching in the UK and Ireland, offering a controller-free gaming experience. As an indie dev, you might be interested in exploring new formats and platforms for your game.
+
+Takeaway: Today, I see a strong focus on game development, game feel, and UI design, with a reminder of the importance of storytelling, talent, and business acumen in the gaming industry.
