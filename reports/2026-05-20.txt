@@ -1,0 +1,23 @@
+🎮 *Trend Monitor — 2026-05-20*
+
+What a day for indie devs! 🎮
+
+The most interesting signal today comes from James, a dev who built a browser-based Warhammer 40K vertical slice in just a few months using GenAI tools. This shows that indie devs are exploring the potential of AI to accelerate game development, which could be a game-changer for small teams.
+
+**Game Engines and Tools**
+
+* A new 2D Lua game engine called Usagi Engine uses Rust and has live reload, making it a great option for devs who love making small 2D pixel art games with constraints.
+* The Flax Engine has just released version 1.12, which brings several new features to this powerful game engine.
+* A crowdsourced tracker for Windows/M365 updates has been created, which could be useful for sysadmins and indie devs who need to keep their systems up-to-date.
+
+**Resources for Indie Devs**
+
+* A beginner dev on Reddit is asking for resources and advice on making a pixel RPG, which could be a great opportunity for more experienced devs to share their knowledge.
+* The GameFromScratch website has a free asset round-up, which includes 3 free assets from the Fab marketplace.
+
+**Big Industry Moves**
+
+* Embracer is spinning off major video game franchises and studios, which could have an impact on the indie game market.
+* The Nex Playground is targeting the global market with ambitious plans, which could be a challenge to the likes of Nintendo and Xbox.
+
+Takeaway: Today, I see a trend of indie devs exploring new tools and technologies, such as GenAI, to accelerate game development and push the boundaries of what's possible in the indie game market.
