@@ -1,0 +1,19 @@
+🎮 *Trend Monitor — 2026-05-25*
+
+🚨 Today's top indie game trend signals 🚨
+
+**Emergent Storytelling Shines**: Three new visual novels caught our attention: My New Tenant 👻, This Magical Girl is a B⭐tch 💫, and MURDER MISERY 💀. These games use interactive storytelling to create unique experiences, showing that players want to engage with narratives in new, player-driven ways.
+
+**Minimalist Physics Delights**: Admin, a puzzle game on Itch.io, uses simple physics to create a fun and challenging experience. This game demonstrates how minimalist mechanics can lead to engaging gameplay.
+
+**Game Jam Success**: A Unity 2D dev shared their game jam project, a puzzle platformer about magnets, showcasing the potential of game jams for creating innovative and polished games.
+
+**Atmospheric Indie Games**: Aztec Ride 🎠 and Riba 🎣 offer immersive experiences, with Aztec Ride focusing on the thrill of a roller coaster and Riba exploring themes of fishing and loss. These games highlight the importance of atmosphere in indie games.
+
+**Co-op Mechanics**: Unfortunately, there are no co-op game highlights today, but we're keeping an eye out for future signals.
+
+**Game Feel and Juice**: These elements are always crucial in game development, and Admin's simple yet satisfying physics mechanics demonstrate the importance of game feel and juice in creating engaging gameplay.
+
+**Game Jam Inspiration**: Admin's creator mentions that they created a mini course for themselves with Chad, which inspired them to improve their game development skills. This shows that game jams and self-directed learning can lead to new opportunities and growth.
+
+**Takeaway**: Today's signals highlight the power of emergent storytelling, minimalist physics, and atmosphere in indie game development. These elements can lead to unique and engaging experiences that set your game apart from the competition.
