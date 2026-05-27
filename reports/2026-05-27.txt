@@ -1,0 +1,26 @@
+🎮 *Trend Monitor — 2026-05-27*
+
+Today's top indie game trend signals are buzzing with creativity and innovation. The most interesting signal is a game jam project that combines deductive puzzle-solving with Norse mythology, showcasing the potential of emergent storytelling in indie games.
+
+**Game Feel and Kinetic Satisfaction**
+
+* World of Juice | Draw & Fill Juice is a new game that lets players create and fill juice with minimalist physics, highlighting the importance of juicy gameplay mechanics in indie games.
+* A puzzle platformer about magnets made for a game jam is OUT, offering a fresh take on co-op mechanics and platforming.
+
+**Game Jam and Emergent Storytelling**
+
+* We submitted our very first Game Jam project, a deductive puzzle about broken rune connections, where Loki scrambled all the magic, demonstrating the potential of game jams for indie game development.
+* A game jam project that combines deductive puzzle-solving with Norse mythology showcases the potential of emergent storytelling in indie games.
+
+**UI Juice and Audio Tools**
+
+* A series on UI juice effects is being released, focusing on building easily reusable components for UI objects across projects, highlighting the importance of UI design in indie games.
+* MubLoop is an awesome new and FREE tool for creating audio loops and clips, which can be used to enhance the game feel and atmosphere of indie games.
+
+**Industry News**
+
+* Rocket League is in development using Unreal Engine 6, showcasing the capabilities of the latest game engine.
+* PS5 exclusive Destruction AllStars has been shut down after five years, serving as a reminder of the risks and challenges of live service titles.
+* Nintendo Switch 2 production estimates exceed hardware sales forecast, highlighting the ongoing competition in the gaming industry.
+
+**Takeaway:** Today's trend signals highlight the importance of creativity, innovation, and experimentation in indie game development, from emergent storytelling to UI design and audio tools.
