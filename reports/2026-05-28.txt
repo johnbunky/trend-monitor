@@ -1,0 +1,21 @@
+🎮 *Trend Monitor — 2026-05-28*
+
+🚀 Today's top indie game trend signals:
+
+**Kinetic Satisfaction & Minimalist Physics**
+- An open-source AI racing harness (Elodin) could help devs create more realistic and engaging racing experiences. 
+- A Blender roadmap release is a big win for devs looking to create more immersive and detailed game worlds.
+
+**Game Feel & Juice**
+- A Reddit user is looking for ways to add more juice to a vending machine scene, a great example of devs prioritizing game feel. 
+- MubLoop, a free audio tool for creating loops and clips, could help devs craft more engaging soundscapes. 
+
+**Co-op Mechanics & Game Jam**
+- The Spring Lisp Game Jam 2026 has kicked off, a great opportunity for devs to experiment with new co-op mechanics. 
+- A Reddit user is sharing their Draw & Fill Juice tool, a great resource for devs looking to create more engaging co-op experiences.
+
+**Game Development Tools & News**
+- A new task runner (Hm) with a Python DSL is growing into a CI/CD system, making game development more efficient. 
+- Samspov.com, a website for tracking updates, is a great resource for devs looking to stay organized. 
+
+**Takeaway:** Today's signals show a focus on game feel, juice, and efficiency in game development, with a mix of new tools and resources being shared.
