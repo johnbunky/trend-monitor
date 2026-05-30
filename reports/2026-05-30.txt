@@ -1,0 +1,24 @@
+🎮 *Trend Monitor — 2026-05-30*
+
+💡 Most interesting signal today comes from a game jam success story, where a team's entry blew up and turned into a full release with 175,000 wishlists, demonstrating the power of game jams in indie game development.
+
+**Game Jam & Collaboration** 🤝
+1. A game jam entry turned into a full release with 175,000 wishlists after stealing the spotlight, even getting stolen and turned into AI slop, showing the unpredictable nature of game jams.
+2. A dev shares their experience with game jams and collaboration, highlighting the importance of finding the right community and tools.
+
+**Game Development Tools** 🛠️
+1. A developer built a game engine in D, a programming language, showing the flexibility of using different languages for game development.
+2. A Mac Menu Bar app reduces Claude Code token usage costs by ~50%, a valuable resource for indie devs struggling with token costs.
+
+**Game Feel & Juice** 🎮
+1. A dev worked hard to make their game feel good to play, highlighting the importance of game feel in player engagement.
+2. A dev asks for ideas on how to add more juice to a vending machine scene, showcasing the ongoing quest for better game feel and visuals.
+
+**Open Source Engines** 🚀
+1. O3DE 26.05 is released, giving developers access to an open-source game engine with CryEngine roots.
+
+**Game Jam Enthusiasm** 🎉
+1. A dev asks for zero-to-hero game jam recommendations, showing the appeal of game jams to new developers.
+2. A dev shares their experience with game jams and collaboration, underscoring the value of community and game jam culture.
+
+**Takeaway:** Today's signals show the power of game jams in driving indie game success, the importance of game feel and juice, and the ongoing evolution of game development tools and engines.
