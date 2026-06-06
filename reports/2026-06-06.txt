@@ -1,0 +1,20 @@
+🎮 *Trend Monitor — 2026-06-06*
+
+Today's top indie game trend signals:
+
+**Game Jam Success Stories**
+Two game jams are making waves in the indie scene, with one team turning their 5-year-old jam entry into a full release with 175,000 wishlists, and another team turning their jam game into a full release after 5 years of development.
+
+**Game Engine and Tooling News**
+The Blender 5.2 Beta has been released, offering improved performance and new features for 3D modeling and animation. Additionally, Mesh2Motion, a free and open-source animation app, is getting some love.
+
+**Industry Shifts**
+Paramount is consolidating its game studios into a single, unified studio, and Microsoft and Valve are facing a lawsuit. Meanwhile, PlayStation's first-party game output is down, and a UK social media ban could impact the industry.
+
+**Kinetic Satisfaction and Minimalist Physics**
+There's no direct signal today, but the mention of game feel and juice in a recent devlog suggests that game developers are still experimenting with kinetic satisfaction and minimalist physics.
+
+**Emergent Storytelling and Co-op Mechanics**
+No direct signals today, but co-op mechanics are often experimented with in game jams and indie game development, so keep an eye out for future signals.
+
+**Takeaway:** The power of game jam success stories is evident today, with two teams sharing their experiences turning jam games into full releases. This emphasizes the importance of perseverance and community support in indie game development.
