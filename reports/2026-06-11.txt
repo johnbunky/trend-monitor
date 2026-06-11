@@ -1,0 +1,23 @@
+🎮 *Trend Monitor — 2026-06-11*
+
+🚨 Today's Top Indie Game Trend Signals 🚨
+
+**AI-native Game Design Takes Center Stage**
+Tail Panic, a multiplayer game designed for AI agents, is making waves in the indie dev community. This shows that AI-native game design is an emerging trend, where devs are leveraging AI to create new gameplay mechanics and experiences.
+
+**Game Jam Success and its Double-Edged Sword**
+A game jam entry, Scale the Depths, blew up and turned into a full release with 175,000 wishlists. However, it was also stolen and turned into AI-generated content, highlighting the risks and challenges of game jam success.
+
+**Game Feel and Juice**
+BrawlBox, a 2D fighting game that runs in the browser, is demonstrating the importance of game feel and juice in indie game development. By incorporating AI-generated characters and sprite animations, BrawlBox is showcasing what can be achieved with minimalistic physics and kinetic satisfaction.
+
+**Game Development Tools and Resources**
+A Unity context graph for Claude Code, Hades, is now available on GitHub, which could improve the workflow for Unity devs using Claude Code. Additionally, Strudel REPL, an online audio programming language, is offering a new way to create audio experiences.
+
+**Co-op Mechanics and Emergent Storytelling**
+While there aren't specific co-op mechanics or emergent storytelling examples today, the emphasis on game jam success and AI-native game design suggests that co-op and emergent storytelling might be on the horizon for indie devs.
+
+**Atmospheric Indie and Minimalist Physics**
+BrawlBox's 2D fighting game aesthetic and simplistic physics engine are indicative of the atmospheric indie trend. By focusing on a specific art style and gameplay mechanic, devs can create a unique and immersive experience.
+
+**Takeaway:** Today's trend signals suggest that AI-native game design, game feel, and juice are becoming increasingly important in indie game development. Devs should focus on creating unique experiences that leverage these emerging trends to stand out in a crowded market.
