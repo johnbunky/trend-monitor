@@ -1,9 +1,0 @@
-🎮 *Trend Monitor — 2026-06-12*
-
-Today's top indie game trend signals are all about DIY and innovation. The biggest signal is the creation of a Godot arcade game with zero asset files, showcasing the power of coding skills and minimalism. 
-
-In the coding space, a Python/ECS library (MicroECS) and a social media platform without algorithm or ads (Manob) demonstrate the potential for indie developers to create their own tools and platforms. Meanwhile, a game jam entry turned full release with 175,000 wishlists shows the success of leveraging community enthusiasm.
-
-In the realm of game development, resources on creating a scary game atmosphere and a 1-year postmortem of a game jam to Steam success story provide valuable insights for indie devs. On the more practical side, a guide to beginner game development and the sale of Playstack and Xbox's business reset signal broader industry shifts.
-
-Takeaway: Today is all about the democratization of game development – with more tools and platforms being created by indie devs, it's never been easier to join the industry and make a mark.
