@@ -1,0 +1,19 @@
+🎮 *Trend Monitor — 2026-06-15*
+
+**Top Trending Indie Game Signals:**
+
+**Capitalism and Game Development:** A recent Hacker News post highlights a developer's journey from excitement about building a successful game to disillusionment with the capitalist system. This signals a growing concern about the ethics of game development and the value of creative work. 
+
+**PICO-8 and Game Jam Inspiration:** A one-button platformer game made for PICO-8 has been showcased on Hacker News, demonstrating the creative possibilities of game jam-style development. This is a great example of how indie devs can experiment with new mechanics and tools.
+
+**Game Jam Success Stories:** A Reddit post shares the story of a game jam entry that gained massive popularity and eventually became a full-fledged release, with 175,000 wishlists. This highlights the potential for game jams to launch successful careers.
+
+**Game Feel and Juice:** A Reddit post showcases various juice and feedback effects in a game, sparking a discussion about the importance of game feel in creating engaging experiences. This is a key consideration for indie devs looking to craft memorable games.
+
+**Atmospheric Indie and Visual Novels:** A free visual novel, "My New Tenant," has been released on Itch.io, featuring a unique blend of horror and romance. This is an example of the innovative storytelling and atmospheric indie games that are gaining traction.
+
+**Puzzle Games and Co-op Mechanics:** A new puzzle game, "Admin," has been released on Itch.io, where players take on the role of a detective trying to unlock computers at their new job. This game showcases co-op mechanics and problem-solving gameplay.
+
+**Emergent Storytelling:** The success of "Scale the Depths," a casual fishing game that started as a game jam entry, demonstrates the potential for emergent storytelling in games. This trend emphasizes the importance of creating experiences that allow players to shape their own narratives.
+
+**Takeaway:** Today's signals highlight the importance of creating memorable game feels, experimenting with new mechanics and tools, and leveraging game jams to launch successful careers.
