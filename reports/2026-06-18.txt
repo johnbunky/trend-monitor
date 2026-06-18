@@ -1,0 +1,27 @@
+🎮 *Trend Monitor — 2026-06-18*
+
+🎮 Today's Top 8 Indie Game Trend Signals 📈
+
+**Signal of the Day**: A game jam entry blew up, turned into a full release with 175,000 wishlists, but was also stolen multiple times and turned into AI-generated slop. This is a stark reminder of the risks and rewards of creating viral indie games. 🚨
+
+**Game Feel & Mechanics**
+
+* A game that converts live MLB data streams into near-real-time 8-bit broadcasts has been built, offering a unique viewing experience for baseball fans. This showcases the potential of minimalist physics and kinetic satisfaction in live gaming experiences.
+* A new webGPU engine, Matrix Engine WGPU, has been released with a focus on mobile, allowing developers to create high-performance games for mobile devices.
+
+**Game Development Tools & Trends**
+
+* Vevey, an AI-powered game development platform for kids to build games together, has been launched. This is an interesting take on emergent storytelling and collaborative game development.
+* OctoPunk, a full-featured AI-integrated GitHub client, has been released, offering developers a new way to manage their code and collaborate with others.
+
+**New Releases & Industry News**
+
+* Unreal Engine 5.8 has been released, featuring improved performance and stability, while Unreal Engine 6 has been unveiled as a massive update with new features and tools. This is a significant development for indie devs, offering new possibilities for game creation.
+
+**Community & Inspiration**
+
+* A solo developer is seeking creative ideas for building a high-engagement, consistent in-person community, highlighting the importance of community building for indie devs.
+
+**Game Jam & Juice**
+
+* The success of a game jam entry turned full release serves as a reminder of the importance of game jam experiences in creating unique and engaging games.
