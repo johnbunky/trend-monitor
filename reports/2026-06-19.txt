@@ -1,0 +1,28 @@
+🎮 *Trend Monitor — 2026-06-19*
+
+**Signal of the day:** Epic Games released Unreal Engine 6, which promises massive improvements and new features.
+
+**Game feel and kinetic satisfaction:**
+
+* [GameFromScratch] Unreal Engine 6 Is HUGE - Epic Games' latest engine release will likely impact the game feel of many indie projects, offering new tools and features to enhance gameplay.
+
+**Game development and tools:**
+
+* [Hacker News] Show HN: Foldkit vs. React, the same pixel art editor implemented in both - A comparison of two different implementations of a pixel art editor, showcasing the possibilities of creative coding.
+* [Hacker News] Show HN: After years as data engineer, I built the tool I wish my colleagues had - A data engineer shares their experience building a tool to streamline their workflow, highlighting the importance of solving real-world problems.
+
+**Game jams and releases:**
+
+* [Reddit r/gamedev] Our game jam entry blew up and we turned it into a full release with 175,000 wishlists - A game jam success story, demonstrating the potential of turning a small project into a big hit.
+
+**Engine releases and updates:**
+
+* [GameFromScratch] Godot 4.7 Released - Godot's latest update brings new features and improvements to the open-source engine.
+* [GameFromScratch] Unreal Engine 5.8 Released - Epic Games' latest engine release includes new features and performance improvements.
+
+**Industry news and trends:**
+
+* [Game Developer] Rockstar's legal setback, Final Fantasy tax incentives, and PlayStation swaps 'PC' for 'AI' - Patch Notes #57 - A roundup of industry news, highlighting the challenges and changes facing game developers.
+* [Game Developer] 'A new industry with a new identity:' How Canadian devs are faring in 2026 - An article exploring the current state of the game development industry in Canada.
+
+**Takeaway:** Today's signals show that innovative game development tools, massive engine releases, and successful game jams can have a significant impact on the indie game landscape.
