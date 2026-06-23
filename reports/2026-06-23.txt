@@ -1,0 +1,29 @@
+🎮 *Trend Monitor — 2026-06-23*
+
+Today's top signals 📊
+
+**Signal 1: Success in the Wild**
+A game jam entry turned into a full release with 175,000 wishlists, but also got stolen multiple times and turned into AI-generated content - a harsh reminder that success can bring both opportunities and challenges.
+
+**Signal 2: Industry Shifts**
+Valve is making it easier to build your own Steam Machine, and Steam Machine pricing starts at $1,049, highlighting the ongoing evolution of PC gaming hardware and the opportunities for developers to tap into new markets.
+
+**Signal 3: Layoffs**
+EA and Ubisoft announce layoffs in India and the US, and San Francisco, respectively, a sobering reminder of the ongoing challenges faced by the gaming industry during economic uncertainty.
+
+**Signal 4: Open-Source Controversy**
+Godot confirms it tolerates some AI assistance, but rejects accusations of 'vibe coded' content, sparking a debate about the role of AI in game development and the importance of maintaining creative integrity.
+
+**Signal 5: Game Feel and Juice**
+A developer's love for computers and programming is inspiring a career shift to graphics programming, highlighting the ongoing importance of technical skills in game development, particularly in areas like game feel and juice.
+
+**Signal 6: Community Engagement**
+A Reddit post about a game jam experience serves as a great example of how indie developers can share their stories, learn from each other, and build a supportive community around their projects.
+
+**Signal 7: Game Jam Inspiration**
+The success of a game jam entry turned into a full release is a great reminder of the power of game jams in fostering creativity, innovation, and community engagement in game development.
+
+**Signal 8: Real-World Implications**
+A French union is planning a national strike outside Quantic Dream, highlighting the real-world implications of industry trends and the importance of considering the social and economic context of game development.
+
+**Takeaway:** Today's signals highlight the ongoing evolution of the gaming industry, from the rise of PC gaming hardware to the challenges of AI-generated content and the importance of community engagement and creative integrity.
