@@ -1,0 +1,23 @@
+🎮 *Trend Monitor — 2026-06-24*
+
+🚨 Today's top indie game trend signals:
+
+**Indie Success Stories & Game Jams**
+Our game jam entry "Scale the Depths" blew up and we turned it into a full release with 175,000 wishlists 😮, while also being stolen multiple times and turned into AI slop (Reddit r/gamedev). This shows the power of game jams in launching successful indie games.
+
+**Game Engine News**
+Unreal is deprecating Blueprints and Actors, while Godot is gaining support from major studios like Battlefield Studios (GameFromScratch). This highlights the ongoing battle for game engine supremacy and the importance of choosing the right engine for your project.
+
+**Emergent Storytelling & Kinetic Satisfaction**
+While there's no direct connection to today's signals, the article on AI agents in game development (Hacker News) suggests a growing interest in using AI to create emergent experiences, which could lead to new forms of kinetic satisfaction and storytelling in games.
+
+**New Releases & Trailers**
+Our indie game trailer is featured on IGN's GameTrailers, giving us a major boost in visibility (Hacker News). This shows the impact of high-quality trailers in generating buzz around indie game releases.
+
+**Career Development & Industry Insights**
+Atari and MobyGames launch new career development platform called Moby Professional (Game Developer), while a 12-year wait made Alien Isolation 2 a better sequel (Game Developer). These signals highlight the importance of career development and the benefits of taking time to develop a strong game concept.
+
+**Game Feel & Juice**
+There's no specific signal related to game feel or juice today, but the Unreal deprecation of Blueprints and Actors suggests a focus on more traditional game development approaches, which could lead to a renewed emphasis on game feel and juice.
+
+**Takeaway**: Today's signals show a mix of indie success stories, game engine news, and career development opportunities, highlighting the ongoing evolution of the game development landscape and the importance of staying adaptable and innovative in this space.
