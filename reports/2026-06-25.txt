@@ -1,0 +1,21 @@
+🎮 *Trend Monitor — 2026-06-25*
+
+🚀 Today's top indie game trend signals revolve around AI, game development, and co-op mechanics.
+
+First and foremost, the AI Browser Game Jam 3 submissions have closed with an impressive 85 AI-assisted browser games, signaling a growing interest in AI-powered game development. This is a crucial signal for indie devs looking to incorporate AI techniques into their games.
+
+In related news, the open-source AI inference library Sipp has been showcased on Hacker News, boasting speeds 3x faster than alternative libraries. This could facilitate the integration of AI into browser games, making it more accessible to indie devs.
+
+Meanwhile, a group of students from Kazakhstan has successfully trained a real-time controllable world model using a Minecraft mod, achieving a remarkable feat at a low budget of $2k.
+
+On a more cautionary note, a Reddit r/gamedev post highlights the risks of game jam success, with a game being stolen and turned into AI slop, emphasizing the importance of protecting IPs.
+
+The game development community is also abuzz with news of the World Builders Americana Unreal Engine Humble Bundle, which offers a range of game development tools and assets at an affordable price.
+
+Battlefield Studios has joined the Godot development fund, signaling a growing support for the Godot Game Engine, which has been gaining popularity among indie devs.
+
+Unreal Engine is also making waves, with the deprecation of Blueprints and Actors, which could impact game development workflows.
+
+Lastly, Magic: The Gathering Arena developers have successfully unionized, marking a significant step towards better working conditions for game developers.
+
+📊 Takeaway: Today's signals suggest a growing interest in AI-powered game development, with indie devs looking to incorporate AI techniques into their games, while also highlighting the importance of protecting IPs and promoting better working conditions for game developers.
