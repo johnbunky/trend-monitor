@@ -1,0 +1,26 @@
+🎮 *Trend Monitor — 2026-06-26*
+
+Today's top indie game trend signals are led by a fascinating story of a game jam success turned full release, with 175,000 wishlists and also being stolen multiple times. This highlights the power of word-of-mouth and the importance of protecting one's intellectual property.
+
+**Game Feel and Core Systems**
+
+* A gamedev on Reddit asked about the balance between time spent on game feel and core systems early in development, sparking debate about the importance of iterating on core mechanics.
+* This conversation is essential for indie devs, as it showcases the need to prioritize both the feel and functionality of a game.
+
+**Procedural Generation and World Building**
+
+* Terrain Studio, a free and open-source procedural terrain software, was announced, offering devs a new tool for creating immersive environments.
+* The World Builders Americana Unreal Engine Humble Bundle was also spotted, providing a valuable resource for developers looking to expand their world-building capabilities.
+
+**Sales and Business**
+
+* Meccha Chameleon, a multiplayer hide-and-seek game, sold 7 million copies in its first two weeks, serving as a reminder of the importance of creating engaging multiplayer experiences.
+* The success of Meccha Chameleon also highlights the significant revenue potential in the indie game space.
+
+**Industry News**
+
+* Combat Waffle Studios, a VR dev, laid off staff, leaving many wondering about the future of VR development.
+* Microsoft raised the price of Xbox consoles once again, sunsetting the 2TB model, which might impact the gaming industry's hardware landscape.
+* Sony laid off 'most' of the Destiny team and 'some' Marathon devs, affecting its support for Bungie's operations.
+
+**Takeaway:** Today's signals highlight the importance of protecting one's IP, iterating on core mechanics, and creating engaging multiplayer experiences.
