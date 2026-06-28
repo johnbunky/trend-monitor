@@ -1,0 +1,25 @@
+🎮 *Trend Monitor — 2026-06-28*
+
+🚀 Today's top indie game trend signals: 
+
+The most interesting signal comes from a game jam success story, where a small team turned their game jam entry into a full release with 175,000 wishlists. This highlights the potential for game jams to be a launchpad for indie devs, and the importance of community engagement and visibility in the indie game space.
+
+**Game Jam & Community**
+- A casual fishing game, Scale the Depths, went from a game jam entry to a full release with 175,000 wishlists, demonstrating the potential of game jams as a launchpad for indie devs.
+- Game jams can be a great way to practice and test ideas, as shown by the creator of Scale the Depths, who suggests starting with practice in game jams before working on major ideas.
+
+**Indie Dev Tools & Resources**
+- Decomp Academy is a new project that teaches decompilation of GameCube games into matching C code, which could be useful for indie devs looking to work with classic games or learn about low-level programming.
+- Adobe acquired Topaz Labs, a company that specializes in AI-powered image and video editing tools, which could be interesting for indie devs who use Adobe software.
+
+**Game Development & Business**
+- Keywords laid off 128 employees in San Francisco, which could impact the indie game development scene in the area.
+- Steam Machine sticker shock, Ubisoft layoffs, and Xbox price hikes are all signs of a challenging market for indie devs, who need to be mindful of their pricing and marketing strategies to stay competitive.
+
+**Game Feel & Mechanics**
+- Starglyphs is a constellation puzzle game that uses Euler paths, which could be an interesting example of minimalist physics and emergent storytelling in indie games.
+
+**Atmospheric Indie**
+- No top picks for atmospheric indie games today, but the success of Scale the Depths shows that a well-designed atmosphere can be a key factor in player engagement.
+
+**Takeaway:** Today's signals highlight the importance of community engagement, game jams, and practice for indie devs. With a challenging market and rising costs, it's more crucial than ever to stay connected with the community and test new ideas in a low-risk environment.
