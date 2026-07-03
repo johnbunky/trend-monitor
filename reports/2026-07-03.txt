@@ -1,0 +1,20 @@
+🎮 *Trend Monitor — 2026-07-03*
+
+The indie game scene is buzzing with news on AI, layoffs, and game jams. Today's most interesting signal is that a game jam success story was blown up and turned into a full release with 175,000 wishlists, showing that with the right execution, a game jam can be a springboard to success.
+
+**Game Jam and Indie Dev Success**
+
+- A game jam entry, "Scale the Depths," turned into a full release with 175,000 wishlists on its first day, proving that game jams can be a great way to incubate indie game ideas (why it matters: this shows the power of game jams in discovering new talent and game concepts).
+
+**AI in Game Development**
+
+- Godot is banning AI coding contributions, except for basic assistance like code completion, in a move to maintain the integrity of open-source game development (why it matters: this highlights the ongoing debate about the role of AI in game development and the importance of human touch).
+- The rise of LLMs has made it easier for non-technical people to generate or change source code, raising questions about the future of game development (why it matters: this shows how AI is changing the landscape of game development and what implications this might have).
+
+**Industry News and Layoffs**
+
+- A hardship fund has been set up to support devs impacted by layoffs, showing that the game development community is coming together to support its members (why it matters: this highlights the need for support and solidarity within the game development community).
+- OtherSide Entertainment has laid off 18 employees from the Thick as Thieves team, following a larger layoff last month (why it matters: this shows the ongoing impact of layoffs in the game development industry).
+- Ubisoft has tapped Christoph Hartmann, former 2K president, to oversee the Tom Clancy franchise (why it matters: this shows the shifting landscape of the game industry and the importance of experienced leaders).
+
+**Takeaway:** Today's top trend is the ongoing debate about AI in game development, with Godot banning AI coding contributions and the game development community grappling with the implications of LLMs on the industry.
