@@ -1,0 +1,19 @@
+🎮 *Trend Monitor — 2026-07-04*
+
+**The indie game trend digest (July 4th)**
+
+**Godot's bold stance on AI** 🤖 Godot's decision to not include AI as a default feature in its engine is a significant signal that indie devs are reevaluating their reliance on AI-generated content. This move highlights the importance of maintaining creative control and human touch in game development.
+
+**Kinetic satisfaction in free indie games** 🎉 Two new games on Itch.io - "My New Tenant" and "Admin" - showcase the potential for kinetic satisfaction in minimalist, atmospheric indie games. Both titles focus on clever mechanics and simple, yet engaging gameplay.
+
+**Rise of the co-op indie scene** 👥 The success of co-op indie games continues with the launch of more co-op-focused titles. However, with Enginefall developer Red Rover Interactive facing layoffs, it's clear that the co-op market is still highly competitive.
+
+**Atmospheric indie and emergent storytelling** 🌌 "My New Tenant" is a great example of atmospheric indie game development, where the game's world and narrative are created through subtle hints and suggestions rather than explicit storytelling. This approach to storytelling is becoming increasingly popular in indie game development.
+
+**Bloat and redundancy in AAA game engines** 🤯 The recent Hacker News post highlighting the redundancy of AAA game engines is a stark reminder of the need for lightweight, flexible engines in indie game development.
+
+**Game jam inspiration** 🎮 Admin on Itch.io is a great example of a game jam-inspired title, where the game's concept was likely born out of a game jam or a personal challenge.
+
+**Game feel and juice** 🤩 My New Tenant on Itch.io is a great example of a game that focuses on creating a unique game feel through its visuals, sound design, and clever mechanics.
+
+**Takeaway**: Today's signals highlight the importance of creative control, human touch, and minimalist design in indie game development. The rise of atmospheric indie and emergent storytelling continues to shape the indie game landscape, and the need for lightweight engines remains a pressing concern for indie devs.
