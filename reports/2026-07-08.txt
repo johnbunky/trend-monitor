@@ -1,0 +1,32 @@
+🎮 *Trend Monitor — 2026-07-08*
+
+🚨 Today's Top 8 Indie Game Trend Signals 🚨
+
+**Kinetic Satisfaction and Game Feel**
+
+* Loodfun: a 3D world where you can play PDFs and URLs, showcasing unique game feel 🌐. This project highlights the potential for unconventional game interactions.
+* SkelForm: a 2D skeletal animator for games, providing a tool for devs to create smooth and engaging animations 💃.
+
+**Emergent Storytelling and Atmospheric Indie**
+
+* No direct signals today, but Loodfun's interactive PDFs and URLs hint at the possibility of emergent storytelling in non-traditional game formats.
+
+**Co-op Mechanics and Collaborative Tools**
+
+* Rowboat: an open-source, local-first alternative to Claude Desktop, emphasizing collaboration and co-op workspaces 🤝. This project points to the growing demand for co-op tools in indie game development.
+* Bike4Mind: an open-core AI workbench, showcasing the potential for collaborative AI development and research.
+
+**Minimalist Physics and Kinetic Satisfaction**
+
+* SkelForm (again!) and Box3D: both projects demonstrate the importance of physical simulation in creating engaging game experiences.
+
+**Game Jam and Open-Source**
+
+* Rowboat, Bike4Mind, and Loodfun are all open-source projects, highlighting the growing trend of open-source game development and community-driven innovation.
+
+**New Releases and Industry Insights**
+
+* Godot 4.8 Dev1 Released: a significant update to the popular game engine, showcasing its commitment to developer community and continuous improvement.
+* Microsoft Fire idTech Team at id Software: a fascinating look at the inner workings of id Software and their partnership with Microsoft, offering insights into game engine development and industry trends.
+
+**Takeaway:** Today's signals show a strong emphasis on collaborative tools, open-source innovation, and kinetic satisfaction through unique game feels and physical simulations.
