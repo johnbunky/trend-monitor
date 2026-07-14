@@ -1,0 +1,25 @@
+🎮 *Trend Monitor — 2026-07-14*
+
+🚨 Top Trend Signals for Indie Game Developers 🚨
+
+The most interesting signal of the day comes from the game development community rallying around a fellow dev's story of success after seeking advice on Reddit's r/gamedev. This shows the power of online communities in supporting indie game development and highlights the importance of sharing experiences and knowledge.
+
+Game Feel & Kinetic Satisfaction:
+- Raftig (itch.io) combines plant breeding with naval combat in a roguelike, offering an unusual take on game feel and kinetic satisfaction. Its creator also mentions it came to them in a dream, showcasing the potential for inspiration from anywhere.
+
+Minimalist Physics:
+- Jolt Physics 5.6 has been released, offering free and open-source cross-platform physics capabilities, allowing developers to create more realistic and immersive game worlds.
+
+Emergent Storytelling & Atmospheric Indie:
+- My New Tenant (itch.io) is a free visual novel about finding a hot monster in your barn. The game's atmosphere and storytelling likely rely on the player's imagination and curiosity, showing how indie devs can create engaging experiences with minimal resources.
+
+Co-op Mechanics:
+- No co-op game announcements today, but the success of community-driven initiatives in game development underscores the importance of co-op mechanics in creating engaging multiplayer experiences.
+
+Game Jam & Juice:
+- A game jam dev shared their story of success after taking advice from the community, highlighting the value of collaboration and community involvement in game development. This also showcases the potential for game jams to foster innovation and creativity.
+
+Industry News:
+- 11 Bit Studios, the developer of Frostpunk, is laying off 20 employees, while Games Done Quick apologized for partnering with a Saudi-owned studio. These stories point to the challenges indie game devs face, from layoffs to community backlash.
+
+Takeaway: Today's trends show the power of community, innovation, and creativity in indie game development, from game jams to emergent storytelling.
