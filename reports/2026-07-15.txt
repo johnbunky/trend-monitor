@@ -1,0 +1,19 @@
+🎮 *Trend Monitor — 2026-07-15*
+
+Game dev trends to watch: 
+
+The launch of Agnost AI 👀, an AI-powered tool to extract user feedback from agent conversations, signals the growing interest in AI-driven game development tools, which will reshape the industry's approach to game design and user engagement.
+
+The indie dev scene is buzzing with minimalist physics experiments, as seen in Lean64, a Doom64-style FPS built using the Lean 4 programming language. This trend highlights the ongoing quest for efficient and innovative game development methods.
+
+Game jams continue to inspire creativity, and the upcoming 1.44MB Game Development Contest 🎮 is a testament to the enduring spirit of constraint-fueled innovation. This challenge will push developers to distill their ideas into the most essential and engaging experiences.
+
+Atmospheric indie games are dominating the market, and the latest Blender 5.2 LTS release 🌐 will empower developers to create more immersive and visually stunning worlds. The free game dev asset round-up on GameFromScratch.com is another great resource for those looking to create captivating atmospheres.
+
+Co-op mechanics continue to gain traction, with the idea of Town, a Discord-like platform where NPCs have skills, sparking interesting discussions on emergent storytelling and social interactions. This concept has the potential to revolutionize multiplayer game design.
+
+The Jolt Physics 5.6 release and other physics-related news highlight the ongoing pursuit of juice and realistic game feel. Indie devs will appreciate the free and open-source Jolt physics engine for cross-platform development.
+
+Lastly, a sobering reminder from the game industry: 'good work is not going to save your job at this company.' The mass layoffs at Xbox underscore the ever-present threat of instability in the gaming industry and the importance of adapting to changing market conditions.
+
+Takeaway: The convergence of AI-driven game development tools, minimalist physics, and constraint-fueled innovation is redefining the indie game landscape, and devs must stay agile to navigate this rapidly shifting industry.
