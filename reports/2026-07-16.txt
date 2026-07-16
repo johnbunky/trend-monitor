@@ -1,0 +1,15 @@
+🎮 *Trend Monitor — 2026-07-16*
+
+Today's top indie game trend signals: 
+
+The most interesting signal is the resurgence of interest in procedural material making with the release of Material Maker 1.7, which can greatly impact the game feel and visual quality of indie games. 
+
+In game feel and mechanics, we have a thread on Reddit's r/gamedev about hitstop feeling bad in a game, which highlights the importance of kinetic satisfaction in game design. On the same topic, a developer is looking to learn C++ and UE for multiplayer game development.
+
+In new tools and resources, Material Maker 1.7 and Blender 5.2 LTS have been released, offering indie game developers more options for procedural material making and modeling. GameFromScratch also rounded up some free game dev assets for July.
+
+In the industry, a former Epic Games VP has been appointed as Saber Interactive's chief business officer, which could impact the business side of indie game development.
+
+Emergent storytelling and atmospheric indie games didn't show up in today's top signals, but co-op mechanics are quietly trending on the backburner.
+
+Takeaway: The trend today is that indie game developers are looking to elevate their game feel and visual quality, while also focusing on learning new skills and tools to stay competitive in the industry.
