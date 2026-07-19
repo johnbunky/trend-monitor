@@ -1,0 +1,31 @@
+🎮 *Trend Monitor — 2026-07-19*
+
+Today's top indie game trend signals are all about innovation and optimization. Here are the top 8 stories grouped by theme:
+
+**Game Development Tools and Optimization**
+
+Several months ago, a WhatsApp community of 500 people noticed certain patterns, which inspired a developer to create a tool that can scaffold a raw game idea into something ship-ready in under a minute. This matters to indie devs who struggle with idea validation and iterative development. (https://news.ycombinator.com/item?id=48958157)
+
+A Reddit user shared a post on squeezing bytes out of the sky by shrinking glTF exports by 95%, which could be a game-changer for developers working with 3D graphics in game development frameworks like raylib. (https://www.reddit.com/r/gamedev/comments/1v08rgu/squeezing_bytes_out_of_the_sky_how_i_shrank_gltf/)
+
+**Game Engines and Platforms**
+
+MonoGame 3.8.5 has been released, offering a major update to the open-source XNA-inspired C# game development framework. This matters to indie devs who use MonoGame for cross-platform game development. (https://gamefromscratch.com/monogame-3-8-5-released/)
+
+**Industry News and Trends**
+
+ZA/UM Studios, the developer of Zero Parades: For Dead Spies, is laying off up to 32 workers, citing a need to adjust its artistic standards. This matters to indie devs who are concerned about the financial and creative sustainability of their own projects. (https://www.gamedeveloper.com/business/za-um-studios-to-lay-off-up-to-32-workers-two-months-after-releasing-zero-parades-for-dead-spies)
+
+Todd Howard, the director of the Fallout franchise, has confirmed that a new Fallout game is in the works with sister studio Obsidian Entertainment. This matters to indie devs who are interested in the current state of the gaming industry and its trends. (https://www.gamedeveloper.com/business/todd-howard-says-the-timing-is-right-for-a-collaboration-with-obsidian)
+
+**Game Releases and Community Engagement**
+
+A free puzzle game called Admin has been released on Itch.io, where players take on the role of a detective trying to unlock computers at their new job. This matters to indie devs who are interested in creating engaging puzzle games for their audiences. (https://jbodah.itch.io/admin-play)
+
+A visual novel called My New Tenant has also been released on Itch.io, where players explore a game about finding a hot monster in their barn. This matters to indie devs who are interested in creating narrative-driven games with unique themes. (https://owlscribble.itch.io/my-new-tenant)
+
+**Labor and Business Trends**
+
+Labor unions are challenging Xbox and GameStop, with the CEO of GameStop stating that physical game sales are 'irrelevant.' This matters to indie devs who are concerned about the future of the gaming industry and its impact on their business models. (https://www.gamedeveloper.com/business/labor-unions-challenge-xbox-gamestop-ceo-says-physical-game-sales-are-irrelevant-and-glen-schofield-retires-patch-notes-61)
+
+**Takeaway:** Today's top indie game trend signals highlight the importance of innovation, optimization, and community engagement in game development. The gaming industry is rapidly evolving, and indie
