@@ -1,0 +1,17 @@
+🎮 *Trend Monitor — 2026-07-22*
+
+🔍 Daily Indie Game Trend Digest (22 July 2026) 🔍
+
+**Emergent Storytelling Leads Today's Pack**: An indie game developer on Reddit is seeking advice on how to create a more enjoyable platformer game with emergent storytelling, which means the story unfolds organically from player choices and interactions.
+
+A multiplayer strategy game, Machinations, is making waves with its use of Large Language Models (LLMs) as game masters, highlighting the potential of AI in game design.
+
+Meanwhile, a developer shared their experience of landing their first paid Unity job without professional experience, showcasing the potential of self-taught developers in the industry.
+
+In other news, WorldBuild Bench, a tool for testing LLM world coherence, has been released on GitHub, and Jaybase, an append-only fact store for AI, has also been shared on Hacker News.
+
+On GameFromScratch, Unity 7 is back in the spotlight, with the announcement of its return at the Unite developer conference, and another article highlighting the potential of Unity CLI and Unity Pipeline in changing the game development landscape.
+
+Lastly, a Reddit discussion on what makes a game feel "professional" has sparked interest, with developers sharing their insights on the importance of game feel, art, and UI placement.
+
+**Takeaway:** Today's trend signals suggest a growing interest in AI-driven game design, emergent storytelling, and the potential of self-taught developers in the industry, all of which could be game-changers for indie devs looking to innovate and stand out.
