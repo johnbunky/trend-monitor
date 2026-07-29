@@ -1,0 +1,26 @@
+🎮 *Trend Monitor — 2026-07-29*
+
+🚀 Top indie game trend signals for today
+
+**Signal 1: DIY game engine enthusiasm**
+A new blog post on Hacker News encourages developers to make their own game engine, highlighting the benefits of customizability and creative freedom. This matters to indie devs as it showcases the possibilities of DIY game development.
+
+**Signal 2: Antics - a drop-in multiplayer solution**
+Antics, a multiplayer platform, is gaining attention on Hacker News for its ability to easily add multiplayer capabilities to AI-built games. This matters to indie devs as it simplifies the process of creating multiplayer experiences.
+
+**Signal 3: Cosmos47 - a social feed without algorithms**
+Cosmos47, a public chronological feed, is gaining traction on Hacker News for its algorithm-free approach to social media. While not directly related to games, it highlights the importance of user experience and community-driven platforms for indie devs.
+
+**Signal 4: Game jam experiences**
+Two Reddit threads from r/gamedev share experiences from the recent GMTK Game Jam, highlighting the challenges and rewards of game jam participation. This matters to indie devs as it showcases the value of community engagement and the importance of experimentation in game development.
+
+**Signal 5: EA's GenAI adoption and studio layoffs**
+EA's decision to adopt GenAI and recent studio layoffs are making headlines in Game Developer, highlighting the impact of emerging technologies on the industry. This matters to indie devs as it underscores the importance of staying adaptable and exploring new technologies to stay competitive.
+
+**Signal 6: Double Fine's layoffs**
+Double Fine's decision to make layoffs after being dropped by Xbox is a sobering reminder of the challenges facing studios in the industry. This matters to indie devs as it highlights the importance of financial resilience and adaptability in the face of uncertainty.
+
+**Signal 7: Resident Evil Requiem's success**
+Resident Evil Requiem's sales figures demonstrate the power of established franchises and series in the industry. This matters to indie devs as it showcases the value of building a loyal fan base and creating engaging, high-quality experiences.
+
+**Takeaway:** Today's signals highlight the importance of community engagement, DIY game development, and adaptability in the face of emerging technologies and shifting industry landscapes.
