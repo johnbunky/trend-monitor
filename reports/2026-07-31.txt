@@ -1,0 +1,26 @@
+🎮 *Trend Monitor — 2026-07-31*
+
+🚀 Today's top indie game trend signals:
+
+**Game Design Insights**
+Beltrunner's game design postmortem on Hacker News offers a deep dive into the design process of a highly kinetic indie game, providing valuable lessons for devs looking to craft engaging experiences.
+
+**Emergent Storytelling**
+A detective game made for a Game Jam on Itch is looking for feedback, showing how small teams can still create compelling story-driven experiences with minimal resources.
+
+**Game Engines**
+Doriax Game Engine's hands-on review on GameFromScratch highlights a robust 2D/3D engine available for multiple platforms, giving devs another option for building their games.
+
+**Game Feel & Atmosphere**
+UNBEATABLE's music video vibes are being studied in Narrative Notebook #5 on Game Developer, emphasizing the importance of atmosphere and emotional resonance in game design.
+
+**Resurrections & Revivals**
+Poinpy's resurrection story on Game Developer highlights the power of perseverance and adaptation in the game development industry.
+
+**Industry News**
+Unity's partnership with Netflix Games on Game Developer brings dedicated engine support to the multi-platform ecosystem, offering new opportunities for devs.
+
+**Industry Commentary**
+A thought-provoking article on Game Developer questions why game companies are choosing to limit their own knowledge and power, leaving us wondering about the future of game development.
+
+**Takeaway:** Today's signals indicate a focus on game design, game feel, and atmosphere, with a hint of resilience and adaptability in the industry.
