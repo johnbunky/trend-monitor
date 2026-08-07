@@ -1,0 +1,22 @@
+🎮 *Trend Monitor — 2026-08-07*
+
+📊 Today's Top 8 Indie Game Trend Signals:
+
+**Kinetic Satisfaction & Game Feel**
+1. demake – a one-source project that compiles to any retro game console ROM, offering a new level of retro gaming experience, and a potential game feel that's hard to replicate in modern games.
+
+**Game Development Tools**
+2. Simple Pixel Art editor – a free, open-source pixel art editor that runs in the browser, making it easier for indie devs to create their own pixel art without the hassle of installing software.
+3. Esoterica Game Engine – a C++ game engine that's not for the faint of heart, but offers a unique level of customization and control for experienced devs.
+
+**Industry Insights**
+4. Nintendo Switch 2 hardware sales are down 34.4% year-on-year, a potential sign that the market is shifting and indie devs need to adapt to new trends.
+5. Unity sells Supersonic publishing business to Tripledot for $40M, a sign that the industry is consolidating and indie devs need to be prepared for potential changes in the market.
+
+**Emergent Storytelling & Co-op Mechanics**
+6. Halo Studios jettisons long-serving contractors after launch of Halo: Campaign Evolved, a reminder that even established studios need to adapt and evolve to stay competitive.
+
+**Atmospheric Indie & Game Jam**
+7. Rockstar wants you to pay Netflix to watch the next GTA VI trailer before it's released to the masses, a sign that the industry is experimenting with new marketing strategies and indie devs need to stay flexible.
+
+**Takeaway:** The industry is shifting, and indie devs need to be prepared to adapt to new trends, technologies, and marketing strategies. Whether it's creating retro game experiences, using new development tools, or experimenting with emergent storytelling, the key to success lies in staying agile and innovative.
