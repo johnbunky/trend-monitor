@@ -1,0 +1,22 @@
+🎮 *Trend Monitor — 2026-08-10*
+
+**Indie Game Trend Digest (August 10, 2024)**
+
+**Most Interesting Signal**: A Planet and Geology Simulation Sandbox Game in Godot is being showcased on Hacker News, signaling a growing interest in kinetic satisfaction and minimalist physics experiences.
+
+**Game Feel and Juice**:
+- A Planet and Geology Simulation Sandbox Game in Godot is a sandbox game inspired by Sim Earth, offering a unique blend of geology and physics.
+- Admin on Itch.io is a puzzle game that simulates the experience of unlocking computers at a new job, providing a sense of satisfaction through puzzle-solving.
+
+**Emergent Storytelling and Atmosphere**:
+- My New Tenant on Itch.io is a visual novel about finding a hot monster in your barn, focusing on atmospheric storytelling.
+- This Magical Girl is a Bitch on Itch.io is a visual novel with an evil theme, highlighting the importance of setting atmosphere in horror games.
+- Riba on Itch.io is an interactive fiction game about fishing your grandma's bones, showcasing the potential for atmospheric storytelling in non-traditional contexts.
+
+**Co-op Mechanics and Game Jams**:
+- A game jam format idea is being discussed on Reddit, highlighting the importance of co-op mechanics and game jams in indie game development.
+
+**New Releases and Technologies**:
+- Remaking Unreal engine in Rust for coding agents is being showcased on Hacker News, signaling a growing interest in developing new technologies and engines for indie game development.
+
+**Takeaway**: Today's trends suggest a growing interest in kinetic satisfaction and minimalist physics experiences, as well as a focus on atmospheric storytelling, co-op mechanics, and game jams.
