@@ -1,0 +1,25 @@
+🎮 *Trend Monitor — 2026-08-15*
+
+🚀 Today's top indie game trend signals showcase a mix of tech innovation, industry shifts, and developer-focused tools.
+
+**Tech Innovation: Kinetic Satisfaction & Minimalist Physics**
+
+* Soup Raiders goes native: What you gain by building your own game engine is a must-read for any indie dev considering custom engine development.
+* A painting engine that lets you sculpt drawings is a tech demo that showcases the potential of minimalist physics in creative applications.
+
+**Game Development Tools & Resources**
+
+* SpriteLoop is a free 2D animation tool that's perfect for indie devs on a budget.
+* GameFromScratch continues to provide valuable resources for game developers.
+
+**Industry Shifts & News**
+
+* Netflix is shutting down Night School Studio and Moonloot Games, highlighting the challenges of the games industry.
+* 2K announces a new Vancouver-based AAA studio led by an EA veteran, demonstrating the ongoing consolidation in the industry.
+* Xsolla rolls out publishing tools to keep players engaged after the first purchase, emphasizing the importance of post-launch support.
+
+**Embracing Change & Emerging Trends**
+
+* Saber Interactive takes steps to address public controversy surrounding Rideshare 'Stimulator' AI disclosure, underscoring the need for transparency in game development.
+
+**Takeaway:** Today's signals highlight the tension between indie devs pushing the boundaries of tech innovation and the industry's ongoing consolidation and commercialization.
