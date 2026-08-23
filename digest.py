@@ -9,7 +9,7 @@ import json
 from datetime import datetime, timezone
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "llama-3.1-8b-instant"
+MODEL = "openai/gpt-oss-20b"
 
 SYSTEM_PROMPT = """You are a sharp indie game trend analyst.
 Your job: read a list of trending posts/games and write a concise daily digest.
