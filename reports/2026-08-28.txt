@@ -1,6 +1,0 @@
-🎮 *Trend Monitor — 2026-08-28*
-
-AI Game Playtester: A dev demonstrated an AI that can one‑shot a full game, proving AI can accelerate QA and prototype testing for indie teams 🚀.  
-Self‑publishing blogs: A Hacker News thread seeks personal dev blogs, highlighting a demand for real‑world case studies on indie publishing.  
-Windows 98 retro voting: A retro‑style web app shows that nostalgic UI can still attract users and generate community engagement, proving niche appeal still works.  
-P
