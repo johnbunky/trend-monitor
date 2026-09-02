@@ -1,0 +1,7 @@
+🎮 *Trend Monitor — 2026-09-02*
+
+Jonathan Blow’s new game design supercollider shows how a modular, test‑first pipeline can keep mechanics fresh and speed iteration—an approach indie devs can copy to reduce prototyping time.  
+OctoLoops offers automated marketing for indie studios, cutting the time spent hunting paying customers and letting devs focus on polish.  
+Unity 6.6’s release brings performance boosts and updated 2D/3D tooling, giving teams a clean, modern foundation without waiting for Unity 7.  
+Aggro Crab’s new publishing label targets intense, stylized titles and rejects generative AI fluff, proving niche publishers still prize unique vision.  
+Doom
