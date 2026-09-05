@@ -1,0 +1,12 @@
+🎮 *Trend Monitor — 2026-09-05*
+
+🚀 The biggest signal today: ARMA’s full game engine source has been released, giving indie devs a ready‑made, battle‑tested physics and networking stack to prototype fast.  
+The Hacker News thread shows developers craving a “cursor” for AI‑driven game content—highlighting a gap in tools that could streamline prototyping.  
+A Reddit post from a first‑time game‑jam participant reveals that finishing a jam feels unfinished, underscoring the need for clearer post‑jam workflows and documentation.  
+Another Reddit thread asks which new jam will replace the now‑dead Ludum Dare, pointing to a community craving fresh, large‑scale creative challenges.  
+Game Developer’s feature on Star Wars Zero Company shows how indie studios can partner with big IPs, suggesting that niche teams can still land high‑profile projects.  
+Xbox’s move to cap cloud‑gaming hours for Game Pass subscribers signals a shift toward tighter monetization models that indie studios must adapt to when launching on console.  
+Supercell’s acquisition of Metacore will bring Merge Mansion into a larger live‑games ecosystem, reminding indie developers that mergers can accelerate scaling and monetization.  
+Gamecity Hamburg’s second funding round offers up to €80k for prototypes, a clear sign that regional incubators are still eager to back early‑stage ideas.  
+
+Takeaway: Today’s trend shows that open‑source engines, community‑driven funding, and a growing appetite for high‑profile collaborations are shaping the indie landscape, so focus on leveraging shared tools and seeking creative partnerships.
