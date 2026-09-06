@@ -1,7 +1,0 @@
-🎮 *Trend Monitor — 2026-09-01*
-
-🕹️ TinyEngine turns ESP32/Arduino into a retro game console, giving indie devs a cheap, tangible platform to experiment with game feel on hardware.  
-🤖 Almanac AI claims to know everything about a company, hinting at smarter dev‑ops tooling that could streamline asset and pipeline management.  
-🧩 Extensible‑MCP offers an open‑source LLM‑to‑MCP proxy, showing that AI can now bridge game logic with external services without breaking policy boundaries.  
-🗣️ Reddit devs are hunting brutal feedback on a game‑jam entry, underscoring how community critique can fast‑track polish and emergent storytelling.  
-💿 A Reddit thread debates free Steam
