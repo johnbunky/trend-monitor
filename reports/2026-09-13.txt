@@ -1,5 +1,0 @@
-🎮 *Trend Monitor — 2026-09-13*
-
-🛠️ Godot 4.8 Dev5 just dropped, adding new 3D rendering and performance tweaks that let indie teams experiment with richer visuals without extra cost.  
-⚖️ A Game Developer article explains what defamation means on Discord, reminding devs that community moderation can trigger legal action if handled poorly.  
-🎮 Vertical Collapse on Itch.io turns a simple gravity‑driven system into a tense puzzle, proving
