@@ -1,0 +1,12 @@
+🎮 *Trend Monitor — 2026-09-15*
+
+Steam Frame’s $1,059 price tag shows Valve’s push to make high‑end VR more accessible, hinting that indie studios can now target a larger VR audience with a single, powerful SDK.  
+Unigine 2.22 drops a suite of physics‑heavy tools and a new UI, giving indie devs a ready‑made engine that can deliver kinetic satisfaction without building a physics engine from scratch.  
+Polyarc’s shutdown after a decade of VR titles signals that even niche studios can burn out quickly, reminding us to keep budgets lean and focus on core gameplay loops.  
+KO_OP’s worker‑run layoffs underline the fragility of collaborative studio models, encouraging indie teams to plan for lean operations and flexible ownership structures.  
+Vertical Collapse offers a minimal‑physics, vertical‑swinging puzzle that demonstrates how simple mechanics can create addictive game feel—great inspiration for tight, jam‑ready prototypes.  
+Admin, a free detective puzzle, showcases emergent storytelling through password‑unlocking mechanics, proving that narrative hooks can be built around mundane office tasks.  
+This Magical Girl is a B⭐tch is a visual‑novel that blends dark humor with a quirky art style, showing how genre‑blending can attract niche audiences on itch.io.  
+My New Tenant presents a light‑hearted monster‑dating visual‑novel, illustrating the appeal of quirky premises even in a saturated VN market.  
+
+Takeaway: Today’s signals point to a trend where indie studios are leaning on powerful, ready‑made engines and VR tools, while still finding success through tight, minimal mechanics and genre‑blending storytelling.
