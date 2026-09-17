@@ -1,0 +1,15 @@
+🎮 *Trend Monitor — 2026-09-17*
+
+🚀 **Show HN: Halo 3’s Guardian in the Browser** – A nostalgic 3D title repurposed as a personal website, proving that classic IP can be re‑engineered for modern web showcases and attract attention to a dev’s portfolio.
+
+⚙️ **Show HN: Compute:Arena – AI Benchmarks on Real Hardware** – A community‑run testbed revealing how AI models actually perform across AMD, NVIDIA, Apple Silicon, Intel and Qualcomm, a must‑know for optimizing ML‑powered gameplay.
+
+🎮 **Show HN: Airmash – HTML5 Massively Multiplayer Missile Warfare** – The official reboot of a 2017 hit shows that browser‑based MMOs can still thrive, highlighting low‑barrier multiplayer as a viable indie path.
+
+🖼️ **Show HN: Picxel – AI‑Assisted Pixel‑Art Asset Creation** – Turns reference photos into pixel art by leveraging GPT and local algorithms, dramatically cutting asset production time for 2D titles.
+
+🗓️ **Reddit: BrainCloud Game Jam (Oct 16‑30)** – A fresh jam theme that encourages rapid prototype building, ideal for testing new mechanics or art styles before committing to a full project.
+
+🛠️ **GameFromScratch: VOID .NET 2D Game Development Framework** – A free, MIT‑licensed .NET/C# framework that offers a lightweight alternative for 2D indie devs looking to avoid heavy engines.
+
+🗣️ **GameFromScratch: Gate
