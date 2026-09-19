@@ -1,0 +1,11 @@
+🎮 *Trend Monitor — 2026-09-19*
+
+AI‑generated voices that copy Genshin Impact characters hit the headlines, a stark reminder that indie devs must vet third‑party voice libraries to avoid IP backlash.  
+
+GameFromScratch’s overview of modern programming languages confirms C++ and C# still rule the indie toolkit, so mastering them remains a solid foundation for performance‑critical projects.  
+
+ARM’s interview with Peter Hodges shows toolmakers can partner closely with devs, hinting at new low‑level optimizations that could shave milliseconds off physics simulations.  
+
+The King workers’ strike over stalled collective bargaining underscores the need for transparent labor practices, even in small studios, to keep development steady.  
+
+Take‑Two CEO Strauss Zelnick’s
