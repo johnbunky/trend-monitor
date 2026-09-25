@@ -1,0 +1,12 @@
+🎮 *Trend Monitor — 2026-09-25*
+
+Union agreement at King shows indie studios can negotiate collective bargaining, proving labor power matters for dev culture 👥  
+Meta’s new 100‑gram VR headset signals a move toward lighter, premium hardware that could lower entry barriers for indie VR creators 🎧  
+Wave’s Three.js gradient generator offers a free, reusable backdrop tool that can instantly boost the visual polish of marketing assets and demos 🎨  
+TrenchBroom’s 3D level editor, now with Godot importers, gives indie teams a lightweight, open‑source tool for rapid environment prototyping 🛠️  
+The Irish Game Fund’s expanded pathways mean more regional developers can secure early, prototype, and release funding, easing cash flow 🎯  
+Discord’s age‑verification model based on account signals highlights growing platform responsibility for content safety and data privacy 🔒  
+Natalie Francis’s move to Massive Entertainment signals that experienced studio leaders are increasingly steering mid‑size indie‑style projects toward larger publishers 📈  
+Bethesda’s reassurance to Obsidian about creative identity underscores that mergers can coexist with distinct indie voices if communication is clear 🗣️  
+
+Takeaway: Today’s trend signals point to a growing emphasis on creator empowerment—through better tools, supportive funding, and fair labor practices—while hardware and platform policies evolve to support a more sustainable indie ecosystem.
