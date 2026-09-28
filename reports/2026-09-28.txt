@@ -1,0 +1,9 @@
+🎮 *Trend Monitor — 2026-09-28*
+
+Public combat playtest post‑mortem shows that early community feedback is the fastest way to dial in game feel and kinetic satisfaction, proving that a small, open play session can uncover subtle balance issues before polishing.  
+
+KnowNote, a local desktop workspace for questioning sources, demonstrates that indie devs are gravitating toward privacy‑first, self‑hosted tools that let them iterate on ideas without cloud dependency—great for those who want tight control over their prototype data.  
+
+The “What even is the point of joining a Game Jam?” thread signals a growing fatigue: developers feel that many jams now produce one‑prompt “vibe” games, suggesting that future jams may need to emphasize deeper collaboration or niche mechanics to stay valuable.  
+
+A post‑mortem from a game jam participant who’s a web developer shows that even non‑traditional programmers can build a game in 72 hours, encouraging cross‑disciplinary teams
