@@ -1,0 +1,8 @@
+🎮 *Trend Monitor — 2026-10-02*
+
+AppLovin’s lawsuit against Unity rattles the middleware market, warning indie devs that licensing battles can hit core engines.  
+⚙️ Godot 4.8 Dev6/Dev7 bring major performance fixes and new 3D features, giving free‑engine devs a fresh toolkit for polished game feel.  
+🖼️ Pyxel offers a free retro engine with built‑in art and sound editors, lowering the entry barrier for pixel‑art indie devs.  
+🤖 HTN Planner releases AAA‑inspired AI framework, letting small teams experiment with complex quest logic without writing AI from scratch.  
+🎬 Suda 51 splits from NetEase, showing that creative independence can still thrive despite corporate backing.  
+🔒 Xbox CEO declares the platform not for sale, reassuring devs
