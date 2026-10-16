@@ -1,0 +1,20 @@
+🎮 *Trend Monitor — 2026-10-16*
+
+🚀 Today's indie game trend digest
+
+AI‑First development is shaking studios: Epic’s Disney‑partnered project is reportedly shifting to AI‑generated code, hinting that even high‑profile IPs may lean on generative tools to accelerate pipelines.  
+
+Game‑feel & mechanics: A free, open‑theme game jam runs from Nov 1–11, inviting creators to experiment with emergent storytelling and minimalist physics in a low‑pressure setting.  
+
+Tools & engines: LittleJS drops a lightweight JavaScript engine that supports both 2D and 3D, making it easier for indie devs to prototype across platforms.  
+Brutal, the high‑performance C# framework behind RimWorld, is now free, offering a robust foundation for simulation and survival titles.  
+
+Industry shifts: Ubisoft is closing RedLynx and downsizing its Singapore studio, a reminder that even major publishers are tightening belts—an important signal for indie studios watching market consolidation.  
+
+Release models: Caves of Qud’s upcoming DLC “Diaspora” will launch as early‑access on Steam, pioneering a new way to fund post‑release content without a full game launch.  
+
+Open‑source guardrails: A deterministic AI guardrail tool on GitHub aims to give companies control over autonomous agents, suggesting that safety frameworks will become a standard part of indie toolchains.  
+
+Game dumps: A public RimWorld Unity engine dump is circulating, offering a deep dive into a popular indie title’s codebase for learning and modding.  
+
+Takeaway: The day’s signals point to a convergence of AI‑driven workflows and novel release strategies—indie devs should explore AI tooling and flexible funding models to stay competitive.
