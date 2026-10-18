@@ -1,7 +1,0 @@
-🎮 *Trend Monitor — 2026-10-18*
-
-RayLib 6.2 just dropped, adding native Vulkan support and a revamped audio API, giving indie devs a powerful new toolkit for low‑overhead cross‑platform games 🚀.  
-Reddit r/gamedev thread offers fresh 2‑week jam prompts, encouraging rapid prototyping and idea sharing.  
-Admin Play on itch.io turns password‑forgetting into a detective puzzle, showcasing kinetic satisfaction through simple mechanics.  
-This Magical Girl is a B⭐tch offers a snarky, fast‑paced narrative, proving that humor can drive engagement in VNs.  
-My New Tenant is a quirky visual novel about

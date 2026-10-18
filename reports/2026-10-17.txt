@@ -1,7 +1,0 @@
-🎮 *Trend Monitor — 2026-10-17*
-
-Caves of Qud’s “Diaspora” DLC becomes the first early‑access DLC on Steam – a new monetisation path that lets indie studios test and fund content before full launch, showing that early‑access can work beyond full games.  
-
-Engine news: Gondwana is a new 2D/2.5D engine built in C#/.NET 8 using SkiaSharp, proving that .NET can power modern indie titles with high‑performance rendering. DragonRuby’s post explains why the creator never wanted to build an engine, hinting that simple, opinionated tools can accelerate prototyping for small teams. RayLib 6.2 drops a fresh C‑based framework with improved audio and windowing, giving developers a lightweight, cross‑platform option for low‑level control. BRUTAL, the high‑performance C# framework that powers RimWorld, is now free, lowering the barrier to entry for C#‑centric indie studios.  
-
-Game design signals: IT THINKS lets players build a GPU from NAND gates, showcasing emergent storytelling through progressive puzzle mechanics that could inspire new educational or simulation‑style indie titles. The BrainCloud Game

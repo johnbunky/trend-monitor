@@ -1,7 +1,0 @@
-🎮 *Trend Monitor — 2026-10-12*
-
-Unity Engine’s new “Make Game” button lets developers jump straight into a fresh scene, proving that instant prototyping is the new baseline for rapid iteration.  
-The Reddit thread on CS masters vs. portfolios shows that a strong jam portfolio still beats a degree for production roles, reminding indie devs to showcase work, not credentials.  
-Admin, a password‑hacking puzzle, uses simple physics for kinetic satisfaction, demonstrating how minimal mechanics can still deliver tight game feel.  
-This Magical Girl is a B⭐tch, a snarky visual novel, proves that edgy humor and niche storytelling can carve out a dedicated audience.  
-Riba, an interactive fiction about fishing grandma’s bones, shows emergent storytelling can thrive
