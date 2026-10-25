@@ -1,7 +1,0 @@
-🎮 *Trend Monitor — 2026-10-21*
-
-AI has made reverse‑engineering a hobby, so a whole community shut down—indie devs must rethink how they learn from others’ code.  
-A new study on long animation frames shows how subtle timing tweaks can give a game more juice, a key to standout game feel.  
-An article argues that a mechanic doesn’t have to be original to feel fresh—polish, context, and narrative can resurrect familiar ideas.  
-A free, open‑theme game jam runs Nov 1–11, offering a low‑cost, high‑impact way to prototype and network.  
-GameFromScratch’s October free asset roundup supplies dozens of high‑quality sprites and tools, saving
