@@ -1,7 +1,0 @@
-🎮 *Trend Monitor — 2026-11-07*
-
-🔥 Big engine buzz: Saudi PIF & Silver Lake are eyeing a Unity takeover, hinting that indie tool ownership could shift toward corporate hands.  
-🛠️ Quixel Megascans library goes free again, giving indie devs instant high‑quality assets without a budget hit.  
-🎭 SAG‑AFTRA opens a new pipeline for union actors in pitch demos, making professional voice work more accessible to small studios.  
-🕹️ Reddit Unity2D thread shows that subtle physics tweaks and satisfying hit feedback still top the list of game‑feel wins.  
-📺 Sony confirms its next‑gen console timeline is on track while Nintendo reports stable memory supply—
