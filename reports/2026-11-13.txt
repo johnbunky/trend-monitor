@@ -1,0 +1,19 @@
+🎮 *Trend Monitor — 2026-11-13*
+
+AI steps in for Geralt’s voice in Witcher 3 after the actor’s stroke, proving generative models can rescue critical talent—indie devs can explore similar tech for voice prototyping or localization.  
+
+Game‑From‑Scratch releases Xogot, a beta 3D modeler and level‑building tool for Godot that streamlines asset creation and could reduce pipeline friction for small teams.  
+
+Incremendle launches a daily incremental “number‑go‑up” game that keeps players engaged with fresh, simple mechanics—an example of kinetic satisfaction that can be replicated with minimal code.  
+
+Tripwire Interactive’s layoffs follow a new publishing push, underscoring that strategic shifts can quickly destabilize studios—indie teams should guard against over‑reliance on single‑project revenue.  
+
+A survey finds most GenAI users in the industry employ it for research and brainstorming, not full‑scale coding, highlighting its role as a creative aid rather than a replacement.  
+
+The State of the Industry report shows one in three developers have been laid off in the last two years, a sobering reminder of the market’s volatility.  
+
+Beth Elderkin and Imran Khan discuss a second 2026 State‑of‑the‑Industry survey, indicating a growing appetite for up‑to‑date data on industry health.  
+
+GDC’s latest survey links layoffs, AI, and next‑gen tech, suggesting that studios are balancing automation with workforce stability.  
+
+Takeaway:
