@@ -1,0 +1,19 @@
+🎮 *Trend Monitor — 2026-11-20*
+
+AI coding is now a reality for big studios: Epic’s Unreal Engine is integrating AI‑generated code, showing indie devs that tooling can cut iteration time and lower skill barriers.  
+
+Open‑source design tools are gaining traction: Onlook (YC W25) offers a lightweight, collaborative editor that lets designers prototype UI and gameplay without heavy code, making rapid prototyping more accessible.  
+
+Asset marketplaces are tightening: ArtStation’s marketplace shutdown signals a shift toward direct creator‑to‑consumer sales and the need for indie studios to build their own distribution channels.  
+
+Narrative focus is shifting: Control Resonant’s design lead argues that a “sad wet man” protagonist can still drive engaging gameplay, reminding devs that character depth can coexist with tight mechanics.  
+
+Funding decisions are tougher: Free Lives’ greenlighting of Dressmaker, despite low pre‑production numbers, shows that data alone isn’t enough—creative conviction can win studio backing.  
+
+Industry layoffs hint at cost pressures: Ubisoft’s 166‑person Canadian cut highlights that even large studios are pruning, encouraging indie teams to keep lean and flexible.  
+
+Funding models are being questioned: Clair Obscur’s call to re‑evaluate priorities in game funding suggests that community‑driven or alternative financing could become more attractive for indie projects.  
+
+Legal outcomes matter: PlayStation’s $2.6 billion lawsuit dismissal indicates that large console ecosystems still hold significant power, urging indie developers to diversify platform presence.  
+
+Takeaway: Today’s signals point to an indie landscape where AI and open‑source tools lower entry barriers, while funding and distribution models shift toward more creator‑centric and flexible approaches.
