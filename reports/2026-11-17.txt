@@ -1,8 +1,0 @@
-🎮 *Trend Monitor — 2026-11-17*
-
-🤖 AI tooling is a hot signal: Revix AI offers PR‑style reviews that automatically flag repo‑standard violations, cutting manual QA time and letting indie teams focus on gameplay polish.  
-🔧 Engine evolution: Unity’s new fellowship program and the acquisition of Synty Studios mean free access to high‑quality asset packs and mentorship, while Unity exec Adam Smith’s comments remind devs that big studios are still consolidating and that transparency matters.  
-🎮 WebGL frontier: PixiJS 3D extends a beloved 2D framework into 3D, giving indie developers a lightweight way to prototype three‑dimensional worlds without the learning curve of Unity or Unreal.  
-🚀 Asset economy: Epic Games’ bi‑monthly free asset giveaway continues to deliver premium art and code snippets, keeping prototyping budgets low and iteration cycles fast.  
-💥 Industry shake‑up: Firaxis layoffs ahead of GTA VI’s launch underscore market volatility and hint at talent migration that could benefit smaller studios.  
-🏆 Inspiration note: Shigeru Miyamoto’s first Legend Award at the DICE Awards reminds indie creators that timeless design principles still shape the industry, offering a blueprint for meaningful storytelling
