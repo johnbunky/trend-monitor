@@ -1,0 +1,9 @@
+🎮 *Trend Monitor — 2026-11-23*
+
+Ambient occlusion technique from EVE: Frontier is now free to use via CORTAO, giving indie devs AAA‑level lighting for a fraction of the cost.  
+O3DE 26.10 drops with updated CryEngine‑derived tools and a new renderer, making high‑end features more accessible.  
+Gall shows how to free RAM on a 24GB M2 Mac by swapping memory between messages, a practical trick for squeezing performance on limited hardware.  
+Lexis World proves that a word‑less kids’ game can still capture attention, reminding us that simple mechanics can be a strong hook.  
+Three.js towns let developers practice nine languages with live voice chat, illustrating how interactive 3D can double as a learning platform.  
+Admin on Itch.io turns a password‑unlocking puzzle into a detective narrative, showing how minimal mechanics can drive emergent storytelling.  
+My New Tenant flips the visual‑novel
